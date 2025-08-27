@@ -18,7 +18,7 @@ While recording, I rotated the camera so each clip had multiple angles. Afterwar
 Processing
 ---------
 - Extracted frames from the clips.
-- Added some basic thresholds/blur checks to drop junk frames. For example, I tweaked blur threshold values a couple of times (120→100) so motion blur wouldn’t pollute the dataset.
+- Added some basic thresholds/blur checks to drop junk frames. For example, I tweaked blur threshold values a couple of times so motion blur wouldn’t pollute the dataset.
 - Stored images per agent folder.
 
 Training
