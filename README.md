@@ -1,5 +1,5 @@
 # VALORANT-Agent-Image-Classifier
-This project is me messing around with training a simple image classifier on Valorant agents. I split it into two notebooks: the image processing first, then the ML model.
+This project is me messing around with training a simple image classifier on Valorant agents. I split it into two notebooks: the image processing first, then the ML model. My brother (Kubilay) assisted with programming the image processing section, the rest is me.
 
 Dataset
 -------
