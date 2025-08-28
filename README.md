@@ -4,7 +4,7 @@ This project is me messing around with training a simple image classifier on Val
 Dataset
 -------
 Creating a data set was not my main goal for this project, but I couldnt find one online so I had to. The process was quite time consuming and tedious so instead of using a variety of maps and all agents, I used a subset.
-I recorded the dataset myself by loading into Haven in observer mode and asking two friends to cycle through 15 different agents (Credit to my good friends Owen and William). For each agent I recorded 15s clips (1080p, 30fps) of them doing 8 actions:
+I recorded the dataset myself by loading into Haven in observer mode and asking two friends to cycle through 15 different agents (Credit to my friends Owen and William). For each agent I recorded 15s clips (1080p, 30fps) of them doing 8 actions:
 - Idle
 - Walking
 - Running
