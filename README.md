@@ -13,6 +13,7 @@ I recorded the dataset myself by loading into Haven in observer mode and asking 
 - Turning 360
 - Ability
 - Weapons
+
 While recording, I rotated the camera so each clip had multiple angles. Afterwards, I cut the framerate way down to 3 fps. The reason is just practical higher fps gave me way too many nearly identical frames and my GPU wasn’t happy about it. At 3 fps I still keep variety without flooding the dataset with too much waste.
 
 Processing
